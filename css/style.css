@@ -986,6 +986,10 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 0;
 }
 
+.container {
+  width: 90%; /* change the width of the container */
+}
+
 .contact-info {
   margin-bottom: 4em;
   padding: 0;
